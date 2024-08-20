@@ -14,10 +14,8 @@
 
 ## Tech Stack
 
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL
-- **Frontend:** React
-- **Version Control:** Git, GitHub
+- **Programming Language:** Java
+- **Database:** PostgreSQL, pgAdmin
 
 ## Usage
 
